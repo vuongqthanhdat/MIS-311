@@ -5,8 +5,10 @@
   - [Dataset Variables](#dataset-variables)
 - [Data Cleaning](#data-cleaning)
 - [Descriptive Statistics](#descriptive-statistics)
+  - [Descriptive Statistics Analysis](#descriptive-statistics-analysis)
   - [Sales Analysis by Product Category](#sales-analysis-by-product-category)
   - [Sales Analysis by City](#sales-analysis-by-city)
+- [Key Findings](#key-findings)
 - [Conclusion](#conclusion)
 
 ## Dataset Overview
@@ -46,8 +48,9 @@ After cleaning, the dataset was reduced from 253 rows to 239 rows. The cleaned d
 
 ### Descriptive Statistics Analysis
 
-Figure 1. Descriptive Statistics Summary
 <img width="515" height="362" alt="image" src="https://github.com/user-attachments/assets/7d8ccf56-8bfd-42b3-b309-57fa7c6d6481" />
+
+#### Figure 1. Descriptive Statistics Summary
 
 The descriptive statistics indicate that the average quantity purchased per transaction was approximately 10.78 items, while the median quantity was 11 items. Since the mean and median are very close, customer purchasing quantities were relatively balanced across transactions.
 
@@ -55,8 +58,9 @@ For total sales value, the average transaction amount was 127.04, whereas the me
 
 ### Sales Analysis by Product Category
 
-Figure 2. Revenue by Product Category
 <img width="1760" height="659" alt="image" src="https://github.com/user-attachments/assets/e25e0e1f-9454-4eba-87ab-e383ed34a56a" />
+
+#### Figure 2. Revenue by Product Category
 
 Insight 1: Fruits generated the highest revenue at 7,450.12 (approximately 24.5% of total sales), while Personal Care recorded the lowest performance (nearly 4,509.59). This suggests that Fruits generated stronger sales performance compared to other categories. In contrast, the underperformance of Personal Care may indicate weaker demand or less effective product positioning.
 
@@ -64,8 +68,9 @@ Business implication: This suggests that the company should prioritise improving
 
 ### Sales Analysis by City
 
-Figure 3. Revenue by City
 <img width="1529" height="661" alt="image" src="https://github.com/user-attachments/assets/696179db-2fe8-4aa7-8f80-2e9de2c55bd8" />
+
+#### Figure 3. Revenue by City
 
 Insight 2: Chicago and New York are the top-performing cities with similar revenue levels, at 10,813.94 and 10,613.69 respectively, indicating stable and consistent demand in these core markets. In contrast, Los Angeles generates lower revenue (about 8,935.31), suggesting underperformance relative to its potential. This gap highlights an opportunity for the company to improve sales through targeted strategies in the Los Angeles market.
 
