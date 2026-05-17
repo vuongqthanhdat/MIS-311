@@ -22,6 +22,7 @@ After cleaning, the dataset was reduced from 253 rows to 239 rows. The cleaned d
 ## Descriptive Statistics
 
 ### Sales Analysis by Product Category
+
 <img width="1262" height="614" alt="image" src="https://github.com/user-attachments/assets/d54feb80-e7fb-4bb7-8ff5-0e9955ca719f" />
 
 Insight 1: Fruits generated the highest revenue at 7,450.12 (24.5% of total sales), while Personal Care recorded the lowest performance. This suggests that Fruits benefit from strong and consistent consumer demand, likely driven by frequent purchases rather than high pricing. In contrast, the underperformance of Personal Care may indicate weaker demand or less effective product positioning.
@@ -29,7 +30,8 @@ Insight 1: Fruits generated the highest revenue at 7,450.12 (24.5% of total sale
 Business implication: This suggests that the company should prioritise improving underperforming categories such as Personal Care through targeted promotions, pricing adjustments or product repositioning. Additionally, high-performing categories like Fruits should be leveraged through inventory expansion and cross-selling strategies to maximise revenue growth.
 
 ### Sales Analysis by City
-<img width="1060" height="568" alt="image" src="https://github.com/user-attachments/assets/516066e5-ff27-4a6a-8864-2f4ddba76f6f" />
+
+<img width="1061" height="568" alt="image" src="https://github.com/user-attachments/assets/18abfbcf-534d-4f4c-b3a1-34c6842fb554" />
 
 Insight 2: Chicago and New York are the top-performing cities with similar revenue levels, at 10,813.94 and 10,613.69 respectively, indicating stable and consistent demand in these core markets. In contrast, Los Angeles generates significantly lower revenue, suggesting underperformance relative to its potential. This gap highlights an opportunity for the company to improve sales through targeted strategies in the Los Angeles market.
 
