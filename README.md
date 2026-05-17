@@ -1,9 +1,11 @@
 # MIS 311 - Introduction to Business Analytics
 ## Dataset Overview
 This project analyses a retail sales dataset containing transaction records from different cities and product categories. The dataset includes information such as branch, city, customer type, product name, product category, quantity purchased and total sales value.
+
 - Original dataset size: 253 rows × 8 columns
 - Cleaned dataset size: 239 rows × 8 columns
 - Tools used: Microsoft Excel, Pivot Table, Descriptive Statistics and Charts
+
 Business context: The primary objective of this analysis is to evaluate sales performance and identify purchasing patterns across product categories and geographic locations. Specifically, the analysis aims to answer the following questions: Which product categories drive the highest revenue? How does sales performance vary across cities?
 
 ## Data Cleaning
