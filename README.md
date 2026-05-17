@@ -1,4 +1,5 @@
 # MIS 311 - Introduction to Business Analytics
+
 ## Dataset Overview
 This project analyses a retail sales dataset containing transaction records from different cities and product categories. The dataset includes information such as branch, city, customer type, product name, product category, quantity purchased and total sales value.
 
@@ -32,7 +33,7 @@ For total sales value, the average transaction amount was 127.04, whereas the me
 
 <img width="1760" height="659" alt="image" src="https://github.com/user-attachments/assets/e25e0e1f-9454-4eba-87ab-e383ed34a56a" />
 
-Insight 1: Fruits generated the highest revenue at 7,450.12 (approximately 24.5% of total sales), while Personal Care recorded the lowest performance (nearly 4,509.59). This suggests that Fruits benefit from strong and consistent consumer demand, likely driven by frequent purchases rather than high pricing. In contrast, the underperformance of Personal Care may indicate weaker demand or less effective product positioning.
+Insight 1: Fruits generated the highest revenue at 7,450.12 (approximately 24.5% of total sales), while Personal Care recorded the lowest performance (nearly 4,509.59). This suggests that Fruits generated stronger sales performance compared to other categories. In contrast, the underperformance of Personal Care may indicate weaker demand or less effective product positioning.
 
 Business implication: This suggests that the company should prioritise improving underperforming categories such as Personal Care through targeted promotions, pricing adjustments or product repositioning. Additionally, high-performing categories like Fruits should be leveraged through inventory expansion and cross-selling strategies to maximise revenue growth.
 
@@ -40,17 +41,15 @@ Business implication: This suggests that the company should prioritise improving
 
 <img width="1529" height="661" alt="image" src="https://github.com/user-attachments/assets/696179db-2fe8-4aa7-8f80-2e9de2c55bd8" />
 
-Insight 2: Chicago and New York are the top-performing cities with similar revenue levels, at 10,813.94 and 10,613.69 respectively, indicating stable and consistent demand in these core markets. In contrast, Los Angeles generates significantly lower revenue (about 8935.31), suggesting underperformance relative to its potential. This gap highlights an opportunity for the company to improve sales through targeted strategies in the Los Angeles market.
+Insight 2: Chicago and New York are the top-performing cities with similar revenue levels, at 10,813.94 and 10,613.69 respectively, indicating stable and consistent demand in these core markets. In contrast, Los Angeles generates lower revenue (about 8,935.31), suggesting underperformance relative to its potential. This gap highlights an opportunity for the company to improve sales through targeted strategies in the Los Angeles market.
 
 Business implication: This indicates that the company is highly dependent on Chicago and New York as its core revenue drivers. To reduce this reliance and achieve more balanced growth, the company should prioritise improving performance in Los Angeles through targeted promotions, localised product offerings and pricing strategies aligned with customer demand.
 
 ## Conclusion
 
-In general, the business demonstrates stable performance, with revenue relatively balanced across product categories and concentrated in two core markets, Chicago and New York. Nevertheless, there are some opportunities exist to improve underperforming segments, particularly Personal Care and the Los Angeles market. By optimising weaker categories and strengthening performance in less-developed locations, the company can achieve more balanced growth and enhance overall revenue efficiency.
+In general, the business demonstrates stable performance, with revenue relatively balanced across product categories and concentrated in two core markets, Chicago and New York. Nevertheless, there are opportunities to improve underperforming segments, particularly Personal Care and the Los Angeles market. By optimising weaker categories and strengthening performance in less-developed locations, the company can achieve more balanced growth and enhance overall revenue efficiency.
 
-## References
 
-- GitHub Docs. (2024). Getting started with GitHub. Retrieved from https://docs.github.com/
 
 
 
