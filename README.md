@@ -31,17 +31,20 @@ After cleaning, the dataset was reduced from 250 rows to 239 rows. The cleaned d
 ### Sales Analysis by Product Category
 <img width="1262" height="614" alt="image" src="https://github.com/user-attachments/assets/d54feb80-e7fb-4bb7-8ff5-0e9955ca719f" />
 
-Insight 1: Fruits generated the highest revenue at 7,450.12, while Beverages, Stationery and Household products also contributed relatively strong and similar revenue levels. This shows that overall sales are mainly driven by high-frequency everyday purchases across multiple essential categories rather than a single dominant product line. However, Personal Care lags behind at 4,509.59, suggesting weaker demand or lower purchase frequency compared to other categories, which may require further investigation in pricing or product mix.
+Insight 1: Fruits generated the highest revenue at 7,450.12, accounting for approximately 24.5% of total sales. Beverages, Stationery, and Household products also showed relatively similar performance, indicating a balanced contribution across key essential categories. Personal Care recorded the lowest revenue at 4,509.59, creating a noticeable gap compared to other categories.
 
-Business implication: The company should continue focusing on its strong-performing essential categories while looking into why Personal Care is underperforming, whether it is due to pricing, product appeal or lack of promotion.
+Business implication: This implies that growth can be achieved by adjusting the performance of existing product categories rather than restructuring the entire product portfolio.
 
 ### Sales Analysis by City
 <img width="1060" height="568" alt="image" src="https://github.com/user-attachments/assets/516066e5-ff27-4a6a-8864-2f4ddba76f6f" />
 
-Insight 2: Chicago and New York contributed the majority of revenue, at 10,813.94 and 10,613.69 respectively, showing strong and relatively balanced performance between the two key markets. In contrast, Los Angeles lagged behind at 8,935.31, indicating weaker market penetration or lower customer engagement in that region. This suggests the company should prioritize growth strategies in Los Angeles while leveraging Chicago and New York as stable revenue for sustained performance.
+Insight 2: Chicago and New York generated the highest revenue at 10,813.94 and 10,613.69 respectively, while Los Angeles ranked lower at 8,935.31. The small gap between Chicago and New York shows that both cities perform at a similar and consistent level as the company’s main markets.
 
-Business implication: While Chicago and New York act as stable revenue drivers, the company should prioritize improving performance in Los Angeles through targeted marketing, localized strategies or customer segmentation to achieve more balanced geographic growth.
+Business implication: This indicates strong reliance on two core markets, while Los Angeles presents potential for improvement through targeted market strategies to balance overall geographic performance.
 
+## Conclusion
+
+Sales are relatively balanced across main product categories, with Chicago and New York performing strongest among cities. Overall, the business demonstrates stable performance, with potential for incremental improvement in weaker segments.
 
 
 
