@@ -7,20 +7,13 @@ This project analyses a retail sales dataset containing transaction records from
 
 > Tools used: Microsoft Excel, Pivot Table and Charts
 
-> Business context: This dataset represents sales transactions from a retail business operating in multiple cities. The goal of the analysis is to identify customer purchasing patterns and evaluate business performance across different product categories and customer types.
+> Business context: The primary objective of this analysis is to evaluate sales performance and identify purchasing patterns across product categories and geographic locations. Specifically, the analysis aims to answer the following questions: Which product categories drive the highest revenue? How does sales performance vary across cities?
 
 ## Data Cleaning
 Before conducting the analysis, the dataset was cleaned to improve accuracy and consistency.
 
 ### Missing Values
-Several rows contained missing values in important columns such as:
-> quantity
-
-> customer_type
-
-> product_category
-
-Rows with incomplete information were removed because missing values could negatively affect descriptive statistics and visual analysis accuracy.
+Several rows contained missing values in critical fields such as quantity, customer_type and product_category. A total of 11 rows with incomplete data were identified. These rows were removed because missing key values could mess up revenue calculations and make the category analysis less accurate.
 
 ### Duplicate Records
 The dataset also contained duplicate transaction records. 3 duplicate records were identified and removed to avoid double-counting sales values and quantities.
@@ -31,20 +24,19 @@ After cleaning, the dataset was reduced from 253 rows to 239 rows. The cleaned d
 ### Sales Analysis by Product Category
 <img width="1262" height="614" alt="image" src="https://github.com/user-attachments/assets/d54feb80-e7fb-4bb7-8ff5-0e9955ca719f" />
 
-Insight 1: Fruits generated the highest revenue at 7,450.12, accounting for approximately 24.5% of total sales. Beverages, Stationery, and Household products also showed relatively similar performance, indicating a balanced contribution across key essential categories. Personal Care recorded the lowest revenue at 4,509.59, creating a noticeable gap compared to other categories.
+Insight 1: Fruits generated the highest revenue at 7,450.12 (24.5% of total sales), while Personal Care recorded the lowest performance. This suggests that Fruits benefit from strong and consistent consumer demand, likely driven by frequent purchases rather than high pricing. In contrast, the underperformance of Personal Care may indicate weaker demand or less effective product positioning.
 
-Business implication: This implies that growth can be achieved by adjusting the performance of existing product categories rather than restructuring the entire product portfolio.
+Business implication: This suggests that the company should prioritise improving underperforming categories such as Personal Care through targeted promotions, pricing adjustments or product repositioning. Additionally, high-performing categories like Fruits should be leveraged through inventory expansion and cross-selling strategies to maximise revenue growth.
 
 ### Sales Analysis by City
 <img width="1060" height="568" alt="image" src="https://github.com/user-attachments/assets/516066e5-ff27-4a6a-8864-2f4ddba76f6f" />
 
-Insight 2: Chicago and New York generated the highest revenue at 10,813.94 and 10,613.69 respectively, while Los Angeles ranked lower at 8,935.31. The small gap between Chicago and New York shows that both cities perform at a similar and consistent level as the company’s main markets.
+Insight 2: Chicago and New York are the top-performing cities with similar revenue levels, at 10,813.94 and 10,613.69 respectively, indicating stable and consistent demand in these core markets. In contrast, Los Angeles generates significantly lower revenue, suggesting underperformance relative to its potential. This gap highlights an opportunity for the company to improve sales through targeted strategies in the Los Angeles market.
 
-Business implication: This indicates strong reliance on two core markets, while Los Angeles presents potential for improvement through targeted market strategies to balance overall geographic performance.
+Business implication: This indicates that the company is highly dependent on Chicago and New York as its core revenue drivers. To reduce this reliance and achieve more balanced growth, the company should prioritise improving performance in Los Angeles through targeted promotions, localised product offerings and pricing strategies aligned with customer demand.
 
 ## Conclusion
 
-Sales are relatively balanced across main product categories, with Chicago and New York performing strongest among cities. Overall, the business demonstrates stable performance, with potential for incremental improvement in weaker segments.
-
+In general, the business demonstrates stable performance, with revenue relatively balanced across product categories and concentrated in two core markets, Chicago and New York. Nevertheless, there are some opportunities exist to improve underperforming segments, particularly Personal Care and the Los Angeles market. By optimising weaker categories and strengthening performance in less-developed locations, the company can achieve more balanced growth and enhance overall revenue efficiency.
 
 
